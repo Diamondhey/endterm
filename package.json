@@ -1,0 +1,19 @@
+{
+  "name": "endterm",
+  "version": "1.0.0",
+  "description": "Adilet Zholbarys endterm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diamondhey/endterm.git"
+  },
+  "author": "Adilet Zholbarys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diamondhey/endterm/issues"
+  },
+  "homepage": "https://github.com/Diamondhey/endterm#readme"
+}
